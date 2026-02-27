@@ -1,4 +1,4 @@
-# Telegram AI Ops Bot
+# Telegram AI Automation Bot
 
 ### 🚀 Projects
 A production-style Telegram bot built with **n8n** that supports:
